@@ -1,20 +1,14 @@
 [
   {
     "evento_id": "show_rock2025",
-    "usuario_id": "usr_001",
-    "status": "confirmado",
-    "data_confirmacao": "2025-11-07T22:35:10Z"
+    "tipo": "controle",
+    "quantidade_disponivel": 30
   },
   {
     "evento_id": "show_rock2025",
-    "usuario_id": "usr_002",
-    "status": "pendente",
-    "data_confirmacao": null
-  },
-  {
-    "evento_id": "cinema_avatar2",
-    "usuario_id": "usr_004",
+    "usuario_id": "usr_001",
+    "tipo": "compra",
     "status": "confirmado",
-    "data_confirmacao": "2025-11-07T22:40:01Z"
+    "data_confirmacao": "2025-11-07T22:35:10Z"
   }
 ]
